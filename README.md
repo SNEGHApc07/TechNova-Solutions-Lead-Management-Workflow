@@ -25,9 +25,25 @@ LINK:https://github.com/SNEGHApc07/TechNova-Solutions-Lead-Management-Workflow/b
 ![Screenshot 2024-11-19 135333](https://github.com/user-attachments/assets/ea8e8f04-dc99-48ce-95da-8f7df2540b55)
 ![Screenshot 2024-11-19 135325](https://github.com/user-attachments/assets/0aca4bdf-659f-4840-b77c-9154ca6ab06f)
 # 2. Ensuring High-Value Leads Are Properly Managed
+
 ![Screenshot 2024-11-19 135343](https://github.com/user-attachments/assets/f1b59a72-1adf-4107-97a7-7d94e3edb00d)
 ![Screenshot 2024-11-19 135354](https://github.com/user-attachments/assets/3e080f48-275b-437a-a186-3755d680a8cc)
 # 3. Accommodating Different Time Zones
 ![Screenshot 2024-11-19 135403](https://github.com/user-attachments/assets/07c38dce-9173-410d-9e9e-933e86739d28)
 ![Screenshot 2024-11-19 135411](https://github.com/user-attachments/assets/9229162d-e23a-4f7d-9feb-675fc89fe7de)
+ # TASK 3 
+ # DOCUMENTATION
+ LINK:
+ # SCREENSHOTS 
+ # 1. Distributing Leads Evenly Among Sales Representatives
+![Screenshot 2024-11-19 142153](https://github.com/user-attachments/assets/54ce8aa6-5c55-4928-8ec8-eb5d6e889eb1)
+![Screenshot 2024-11-19 142207](https://github.com/user-attachments/assets/0c234d24-9faf-4d66-9ef6-1390bce8a844)
+![Screenshot 2024-11-19 142213](https://github.com/user-attachments/assets/5684eece-b761-4dc7-b79c-d61ae924bd50)
+# 2. Extracting Keywords from the "Comments" Field
+![Screenshot 2024-11-19 142223](https://github.com/user-attachments/assets/7871800e-abb9-4e37-9a80-426b25384e25)
+![Screenshot 2024-11-19 142230](https://github.com/user-attachments/assets/214fbc18-9e24-4e24-ba53-dda22ce55ff3)
+# 3.Automating Follow-Up Reminders with Google Calendar
+![Screenshot 2024-11-19 142238](https://github.com/user-attachments/assets/9c771bfd-3729-4b64-9c00-b10f886d3286)
+![Screenshot 2024-11-19 142245](https://github.com/user-attachments/assets/5568bc66-67b0-41fb-ad08-c2cf276ae628)
 
+ 
