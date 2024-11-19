@@ -18,7 +18,7 @@ LINK : TASK 1/TechNova Solutions_ Lead Management Workflow.pdf
 
 # TASK 2
 # DOCUMENTATION 
-LINK:
+LINK:https://github.com/SNEGHApc07/TechNova-Solutions-Lead-Management-Workflow/blob/main/TASK%202/Written%20Explanation%20of%20the%20Approach%20to%20Each%20Edge%20Case.pdf
 
 # SCREENSHOTS
 # 1. Handling Incomplete Data
