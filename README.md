@@ -33,7 +33,7 @@ LINK:https://github.com/SNEGHApc07/TechNova-Solutions-Lead-Management-Workflow/b
 ![Screenshot 2024-11-19 135411](https://github.com/user-attachments/assets/9229162d-e23a-4f7d-9feb-675fc89fe7de)
  # TASK 3 
  # DOCUMENTATION
- LINK:
+ LINK: https://github.com/SNEGHApc07/TechNova-Solutions-Lead-Management-Workflow/blob/main/TASK%203/Documentation_%20Enhancing%20TechNova's%20Lead%20Management%20Workflow.pdf
  # SCREENSHOTS 
  # 1. Distributing Leads Evenly Among Sales Representatives
 ![Screenshot 2024-11-19 142153](https://github.com/user-attachments/assets/54ce8aa6-5c55-4928-8ec8-eb5d6e889eb1)
